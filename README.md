@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/CherrypicksResearch/RNPokeGoMap.png?label=ready&title=Ready)](https://waffle.io/CherrypicksResearch/RNPokeGoMap)
 # RNPokeGoMap
 React Native Pokemon Go Map
 
